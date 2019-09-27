@@ -1,0 +1,15 @@
+require('./test/chmod');
+require('./test/clobber');
+require('./test/mkdirp');
+require('./test/opts_fs');
+require('./test/opts_fs_sync');
+require('./test/perm');
+require('./test/perm_sync');
+require('./test/race');
+require('./test/rel');
+require('./test/return_sync');
+require('./test/return');
+require('./test/root');
+require('./test/sync');
+require('./test/umask');
+require('./test/umask_sync');
